@@ -4,6 +4,12 @@ This interactive web-based application was built for the **Graphics Programming*
 
 ---
 
+# 🌐 Live Preview
+
+https://raw.githack.com/jh-sudo/Real-Time-Face-Detection-Color-Segmentation/refs/heads/main/index.html
+
+---
+
 ## 📸 Features
 
 - **Live Webcam Feed** with canvas rendering
